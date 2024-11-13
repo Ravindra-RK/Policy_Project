@@ -42,6 +42,9 @@ class Demo{
 		m=null;
 		System.out.println(m);
 		c.getCharger();
+		System.out.println("hello");
+		int iii;
+		
 				
 	}
 	
